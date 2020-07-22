@@ -1,0 +1,87 @@
+1. Taxonomy Manager:
+	a. Create the following taxonomies:
+		Group:		Forms
+		Category:	IRS
+		Document:	W4
+		Fields:		first-name
+					last-name
+					social-security-number
+					address
+					city-town-state-zip
+					single-married-filing-separately
+					married-filing-jointly
+					employers-name-address
+					employment-date
+					employer-identification-number
+					
+		Group:		Forms
+		Category:	IRS
+		Document:	1040A
+		Fields:		first-name
+					last-name
+					social-security-number
+					home-address
+					city-town-zip
+					apt-no
+					dependants (tabel)
+						first-last-name
+						social-security-number
+						relationship
+						child-tax-credit
+					account-number
+
+		Group:		Reports
+		Category:	SEC
+		Document:	10-x
+		Fields:		form-type
+					commision-file-number
+					irs-employer-identification-no
+					telephone-number
+					
+		Group:		Accounting
+		Category:	Incoming
+		Document:	Invoice
+		Fields:		name
+					vendor-address
+					billing-name
+					billing-addr
+					shipping-addr
+					invoice-no
+					payment-terms
+					due-date
+					po-no
+					date
+					net-amount
+					tax
+					total
+					currency
+					items
+						line-no
+						description
+						item-po-no
+						quantity
+						unit-price
+						line-amount
+	
+	b. Edit the taxonomy for W4 and 1040A and add a 'signature' field
+	
+2. Load the taxonomy and digitize all the documents in the input folder
+	a. Use Microsoft OCR Engine
+	b. Use Omnipage OCR Engine
+
+3. Use the keyword classifier to classify between the documents in the input folder
+
+4. Extract data from the documents:
+	a. Use the Form extractor for the W4 and 1040A type documents
+	b. Use the Intelligent Form Extractor to check if a signature is present on the W4 and 1040A documents
+	c. Use the extractors from both a) and b) at the same time, where b) only extracts the signature.
+	d. Use the Regex Extractor to extract the fields from the 10k and 10q documents
+	e. Use the Machine Learning Extractor to extract the fields for the Invoice defined at point 1.
+	f. Have a workflow where you use all the extractors, by using the classifier at point 3.
+
+5. Use the validation station to validate the extracted data in case there are any mistakes
+
+6. Save the Extracted Data and to an excel spreadsheet by using the 'export extraction results' activity and saving the dataset that comes as an output. 
+	- The Data has to be saved while running the Omnipage OCR Engine!
+	- The Dataset will contain several tables, please save one table/sheet!!
+	- Remember to check the 'add headers' option in the write range activity!!!

@@ -3,6 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# UiPath Studio
+.local/
+.settings/
+Exceptions_Screenshots/
+
 # User-specific files
 *.rsuser
 *.suo
