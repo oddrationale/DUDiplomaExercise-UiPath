@@ -1,0 +1,200 @@
+10-K1clri01152019form10k.htmYEARENDREPOR- SEPT. 30, 2018
+
+SECURITIES ANDEXCHANGECOMMISSION WASHINGTON, D.C. 20549
+
+____________________________________________________
+
+FORM10-K
+
+(MarkOne)
+
+x ANNUALREPORTUNDERSECTION13 OR15(d) OFTHESECURITIES EXCHANGEACTOF1934
+
+For the fiscalyear ended September 30, 2018
+
+¨ TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from____________________ to _____________________
+
+Commission File No. 000-55329 CLEARTRONIC, INC.
+
+0 (Exact name of registrant as specified in its charter)
+
+Florida
+
+(State or other jurisdiction of incorporation or organization)
+
+8000 North Federal Highway, Suite 100 BocaRaton, Florida
+
+(Address of principalexecutive offices)
+
+65-0958798
+
+(I.R.S. Employer Identification No.)
+
+33487
+
+(Zip Code)
+
+Registrant's telephone number, including area code:(561) 939-3300
+
+Securities registered under Section 12(b) of the Exchange Act: None
+
+Securities registered under Section 12(g) of the Exchange Act: Common stock, par value $0.00001 per share
+
+(Titleof class) Indicate by checkmarkif the registrant is a well-known seasoned issuer, as defined in Rule 405of the Securities Act.
+Yes [ ] No [X]
+
+Indicate by checkmarkif the registrant is not required to file reports pursuant to Section 13or Section 15(d) of the Act.
+Yes [ ] No [X]
+
+Indicate by checkmarkwhether the registrant (1) has filed allreports required to be filed by Section 13or 15(d) of the Securities Exchange Act of 1934during the preceding 12months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirement for the past 90days.
+Yes [X] No [ ]
+
+Indicate by checkmarkwhether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405of Regulation S-T (§232.405of this chapter) during the preceding 12months (or for such shorter period that the registrant was required to submit and post such files).
+Yes [X] No [ ]
+
+Indicate by checkmarkif disclosure of delinquent filers pursuant to Item405of Regulation S-K(§229.405of this chapter) is not contained herein, and willnot be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form10-Kor any amendment to this Form10-K. [X]
+
+Indicate by checkmarkwhether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company.
+See the definitions of "large accelerated filer," "accelerated filer," and "smaller reporting company" in Rule 12b-2of the Exchange Act:
+
+Large accelerated filer [ ] Non-accelerated filer [ ] Indicate by checkmarkwhether the registrant is a shellcompany (as defined in Rule 12(b)-2of the Exchange Act).
+Yes [ ] No [X]
+
+Accelerated filer [ ] Smaller reporting company [X]
+
+The aggregate market value of the registrant's common stockheld by non-affiliates of the registrant on March 30, 2018(based on the closing sale price of $0.06per share of the registrant's common stock, as reported on the OTCPINKoperated by The OTCMarkets Group, Inc. on that date) was approximately $7,020,000.
+Common stockheld by each officer and director and by each person known to the registrant to own five percent or more of the outstanding common stockhas been excluded in that those persons may be deemed to be affiliates.
+This determination of affiliate status is not necessarily a conclusive determination for other purposes.
+Indicate the number of shares outstanding of each of the registrant's classes of common stock, as of the latest practicable date.
+At December 29, 2018the registrant had outstanding 203,899,190shares of common stock, par value $0.00001per share.
+
+-i-
+
+View Online at: https://last10k.com/sec-filings/1362516/0001091818-19-000007.htm
+
+Table of Contents
+
+PART I                                                                                             2 
+Item1.     Business.                                                                               2 
+Item1A.    RiskFactors.                                                                            8 
+Item1B.    Unresolved Staff Comments.                                                              8 
+Item2.     Properties.                                                                             8 
+Item3.     LegalProceedings.                                                                       8 
+Item4.     (Removed and Reserved).                                                                 8 
+PART II                                                                                            9 
+Item5.     Market for Registrant's Common Equity, Related Stockholder Matters and Issuer             
+           Purchases of Equity Securities.                                                         9 
+Item6.     Selected FinancialData.                                                                 11
+Item7.     Management's Discussion and Analysis of FinancialCondition and Results of Operations.   11
+Item7A.    Quantitative and Qualitative Disclosures About Market Risk.                             15
+Item8.     FinancialStatements and Supplementary Data.                                             15
+Item9.     Changes in and Disagreements with Accountants on Accounting and FinancialDisclosure.    15
+Item9A.    Controls and Procedures.                                                                15
+Item9B.    Other Information.                                                                      17
+PART III                                                                                           17
+Item10.    Directors, Executive Officers and Corporate Governance.                                 17
+Item11.    Executive Compensation.                                                                 19
+Item12.    Security Ownership of Certain BeneficialOwners and                                        
+           Management and Related Stockholder Matters.                                             20
+Item13.    Certain Relationships and Related Transactions and Director Independence.               23
+Item14.    PrincipalAccounting Fees and Services.                                                  25
+PART IV                                                                                            26
+Item15.    Exhibits, FinancialStatement Schedules.                                                 26
+
+-1-
+
+View Online at: https://last10k.com/sec-filings/1362516/0001091818-19-000007.htm
+
+SPECIALNOTEREGARDINGFORWARD-LOOKINGSTATEMENTS
+
+In light of the risks and uncertainties inherent in allprojected operationalmatters, the inclusion of forward-looking statements in this Form10-K, should not be regarded as a representation by us or any other person that any of our objectives or plans willbe achieved or that any of our operating expectations willbe realized.
+Our revenues and results of operations are difficult to forecast and could differ materially fromthose projected in the forward-looking statements contained in this Form10-K, as a result of certain risks and uncertainties including, but not limited to, our business reliance on third parties to provide us with technology, our ability to integrate and manage acquired technology, assets, companies and personnel, changes in market condition, the volatile and intensely competitive environment in the business sectors in which we operate, rapid technologicalchange, and our dependence on key and scarce employees in a competitive market for skilled personnel.
+These factors should not be considered exhaustive; we undertake no obligation to release publicly the results of any future revisions we may make to forward-looking statements to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events.
+
+PART I
+
+Except for historicalinformation, this report contains forward-looking statements within the meaning of Section 21Eof the Securities Exchange Act of 1934, as amended (the "Exchange Act").
+Such forward-looking statements involve risks and uncertainties, including, among other things, statements regarding our business strategy, future revenues and anticipated costs and expenses.
+Such forward-looking statements include, among others, those statements including the words "expects," "anticipates," "intends," "believes" and similar language.
+Our actualresults may differ significantly fromthose projected in the forward-looking statements.
+Factors that might cause or contribute to such differences include, but are not limited to, those discussed in the section "Item7.
+Management's Discussion and Analysis of FinancialCondition and Results of Operations." You are cautioned not to place undue reliance on the forward-looking statements, which speakonly as of the date of this report.
+We undertake no obligation to publicly release any revisions to the forward-looking statements or reflect events or circumstances taking place after the date of this document.
+
+Item1. Business. The Company
+
+We were initially incorporated on November 4, 1999, as Menu Sites, Inc., a Florida corporation.
+On March 9, 2001, we changed our name to CNECommunications, Inc. On October 1, 2004, we changed our name to CNEIndustries, Inc.
+On March 29, 2005, we changed our name to GlobalTelIP, Inc. On May 9, 2008, we changed our name to Cleartronic, Inc.
+
+Allof our operations are conducted through our wholly owned subsidiaries, VoiceInterop, Inc., a Florida corporation, incorporated on November 13, 2007, and ReadyOp Communications, Inc., a Florida corporation, incorporated on September 15, 2014, which facilitate the marketing and sales of ReadyOp™software and AudioMate IP gateways, discussed below.
+
+Business Overview
+
+We do not currently have sufficient capitalto conduct the present or proposed business activities described below.
+The costs to operate our business are approximately $115,000per month.
+In order for us to cover our monthly operating expenses, we must generate revenues of approximately $175,000per month.
+Accordingly, in the absence of revenues, we must secure $115,000in equity or debt capitaleach month to cover our overhead expenses.
+In order to remain in business for one year without any revenues, we must secure $1,380,000in equity or debt capital.
+If we are unsuccessfulin securing sufficient capitalor revenues, we willbe unable to continue any business activities.
+We have not obtained any commitments for additionalcapital, and we may not be able to obtain any additionalcapitalon terms not unfavorable to us, if at all.
+FromMarch 2005to October 2007, we were primarily engaged in providing telecommunications services to our customers employing Voice over Internet Protocol(VoIP) technology.
+In October 2007, we sold substantially allof our assets utilized in that business.
+Prior to 2005, we were a website development company.
+
+-2-
+
+View Online at: https://last10k.com/sec-filings/1362516/0001091818-19-000007.htm
+
+We are nowa provider of Internet Protocol, or IP, unified group communication solutions.
+The products used in our solutions include our own proprietary products as wellas products fromother software and hardware vendors.
+
+We have designed and customized standards based audio and voice collaboration solutions for prospective customers as part of a unified group communication system.
+We consider allaspects of a potentialcustomer's information technology resources and existing telecommunications networkin creating a design best suited for that customer.
+In 2013, we developed our own proprietary group communication solution and have built and installed four of these solutions as of the filing date of this report.
+Prior to developing our own solution we used WAVE software as the core component.
+We have designed, built and installed 20unified group communication solutions as of the filing date of this report, 14of which utilize WAVE software.
+In November 2013, we discontinued using WAVE software as a component in our unified communication solution installations.
+
+Revenues have been generated fromthe design, construction and installation of the group communication systems.
+We have also generated revenues frommaintenance and support contracts, once a unified group communication solution has been installed and tested.
+While we no longer sellWAVE based systems we willcontinue to support the installations that we have previously installed.
+We also sellour proprietary line of Internet ProtocolGateways which we have branded the AudioMate 360 IP Gateway, discussed below.
+These units are currently being sold directly to end-users and by Value Added Resellers ("VARs").
+As of the date of this filing, we have approximately 10active VARs, and we have sold our gateways to more than 1,000end-users in the United States and 18foreign countries.
+
+We have developed an Internet ProtocolGateway which we callthe AudioMate 360 IP Gateway.
+The AudioMate 360 IP Gateway has been designed to provide an Internet ProtocolGateway to users of unified group communications.
+The AudioMate 360 IP Gateway is available in different configurations which enable it to be used with various types of communications equipment.
+
+Although other devices are available that performthe same or similar functions, we believe that our price for the AudioMate 360 IP Gateway is substantially lower than the prices others are presently charging for similar devices.
+If we are unable to provide the AudioMate 360 IP Gateway to our prospective customers at substantially lower prices than others are charging for similar gateways, our business willbe materially adversely affected.
+
+We do not have any other products at this time.
+
+Acquisition of Certain CollabriaAssets
+
+In March 2015, the Company amended its Licensing Agreement with Collabria LLCof Tampa, Florida ("Collabria").
+The Agreement grants the Company master distribution rights to market, selland support Collabria's command and controlsoftware, trade-named ReadyOp.
+ReadyOp software is designed for fast, efficient access to information and for communication with multiple persons, groups and agencies.
+This agreement willremain in effect for an initialtermof five years unless either the Company or Collabria sooner terminates the agreement.
+Upon expiration of the agreement, the Company's only obligation to Collabria shallbe the payment of alloutstanding obligations to Collabria.
+In September 2014, the Company formed ReadyOp Communications, Inc. (a Florida corporation), as a wholly owned subsidiary to facilitate the marketing of ReadyOp software.
+According to the terms of the agreement ReadyOp Communications willpay Collabria a royalty for allReadyOp software sold.
+
+In November 2016, the Company cancelled its Licensing Agreement with Collabria LLCof Tampa, Florida ("Collabria") and acquired allof the intellectualproperty related to Collabria's command and controlsoftware, trade-named ReadyOp.
+In addition the Company acquired Collabria's client list.
+In exchange for these assets the Company issued Collabria 3,000,000shares of the Company's restricted Series EConvertible Preferred stockwith a fair value of $292,240.
+The Company assumed none of Collabria's liabilities.
+
+Needfor UnifiedGroupCommunications
+
+Unified group communications and coordination within and between agencies for response actions to incidents and emergencies has been a challenge for many years.
+The result has been inefficiencies and in some cases the loss of lives, time and money during response activities.
+Governmentalagencies, hospitals and other organizations experience these same interoperability failures.
+
+-3-
+
+View Online at: https://last10k.com/sec-filings/1362516/0001091818-19-000007.htm

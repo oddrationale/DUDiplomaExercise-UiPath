@@ -1,0 +1,284 @@
+(Mark One)
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549
+
+FORM 10-Q
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended June 30, 2018 or
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from to .
+Commission File Number: 001-36743
+
+Apple Inc.
+
+(Exact name of Registrant as specified in its charter)
+
+California                                 94-2404110                          
+(State or other jurisdiction               (I.R.S. Employer Identification No.)
+of incorporation or organization)                                              
+One Apple Park Way                                                             
+Cupertino, California                      95014                               
+(Address of principal executive offices)   (Zip Code)                          
+
+(408) 996-1010
+
+(Registrant's telephone number, including area code)
+
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes ☒ No ☐
+
+Indicate by check mark whether the Registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit and post such files).
+Yes ☒ No ☐
+
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.
+See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer ☒ Accelerated filer ☐
+
+Non-accelerated filer ☐ (Do not check if a smaller reporting company) Smaller reporting company ☐
+
+Emerging growth company
+
+☐
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes ☐ No ☒
+
+4,829,926,000 shares of common stock, par value $0.00001 per share, issued and outstanding as of July 20, 2018
+
+Apple Inc.
+
+Form 10-Q For the Fiscal Quarter Ended June 30, 2018 TABLE OF CONTENTS
+
+                                                                                                   Page
+           Part I                                                                                      
+Item 1.    Financial Statements                                                                    1   
+Item 2.    Management's Discussion and Analysis of Financial Condition and Results of Operations   22  
+Item 3.    Quantitative and Qualitative Disclosures About Market Risk                              35  
+Item 4.    Controls and Procedures                                                                 35  
+           Part II                                                                                     
+Item 1.    Legal Proceedings                                                                       36  
+Item 1A.   Risk Factors                                                                            36  
+Item 2.    Unregistered Sales of Equity Securities and Use of Proceeds                             46  
+Item 3.    Defaults Upon Senior Securities                                                         46  
+Item 4.    Mine Safety Disclosures                                                                 46  
+Item 5.    Other Information                                                                       46  
+Item 6.    Exhibits                                                                                47  
+
+PART I - FINANCIAL INFORMATION Item 1.
+Financial Statements
+
+Apple Inc. CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+
+(In millions, except number of shares which are reflected in thousands and per share amounts)
+
+Net sales Cost of sales Gross margin
+
+Operating expenses: Research and development Selling, general and administrative Total operating expenses
+
+Operating income Other income/(expense), net Income before provision for income taxes Provision for income taxes Net income
+
+Earnings per share: Basic Diluted
+
+Shares used in computing earnings per share: Basic Diluted
+
+Three Months Ended
+
+June 30, 2018
+
+July 1, 2017
+
+$53,265 $45,408 $
+
+32,844 20,421
+
+27,920 17,488
+
+3,701 4,108 7,809
+
+2,937 3,783 6,720
+
+12,612 672 13,284 1,765
+
+10,768 540 11,308 2,591
+
+$11,519 $8,717 $
+
+$2.36 $1.68 $ $2.34 $1.67 $
+
+4,882,167 5,195,088 4,926,609 5,233,499
+
+Cash dividends declared per share
+
+$0.73 $0.63 $ See accompanying Notes to Condensed Consolidated Financial Statements.
+Apple Inc. | Q3 2018 Form 10-Q | 1
+
+Nine Months Ended
+
+June 30, 2018
+
+202,695 124,940 77,755
+
+10,486 12,489 22,975
+
+54,780 1,702 56,482 11,076 45,406
+
+9.07 8.99
+
+5,006,640 5,050,963
+
+1.99
+
+July 1, 2017
+
+$176,655 108,400 68,255
+
+8,584 11,447 20,031
+
+48,224 1,948 50,172 12,535 $37,637
+
+$7.18 $7.14
+
+5,239,847 5,274,394
+
+$1.77
+
+Apple Inc. CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (Unaudited)
+
+(In millions)
+
+Net income Other comprehensive income/(loss): Change in foreign currency translation, net of tax effects of $(3), $(35), $4 and $(3), respectively
+
+Change in unrealized gains/losses on derivative instruments: Change in fair value of derivatives, net of tax benefit/(expense) of $70, $(16), $(60) and $(269), respectively Adjustment for net (gains)/losses realized and included in net income, net of tax expense/(benefit) of $(254), $176, $(198) and $276, respectively Total change in unrealized gains/losses on derivative instruments, net of tax
+
+Change in unrealized gains/losses on marketable securities: Change in fair value of marketable securities, net of tax benefit/(expense) of $154, $(197), $1,159 and $536, respectively Adjustment for net (gains)/losses realized and included in net income, net of tax expense/(benefit) of $(7), $16, $27 and $12, respectively Total change in unrealized gains/losses on marketable securities, net of tax
+
+Total other comprehensive income/(loss) Total comprehensive income
+
+$ $
+
+Three Months Ended
+
+June 30, 2018
+
+11,519 (590)
+
+109
+
+978 1,087
+
+(568)
+
+24 (544)
+
+(47) 11,472
+
+July 1, 2017
+
+$8,717 120
+
+(166)
+
+(409) (575)
+
+364
+
+(32) 332
+
+(123) $8,594
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+Apple Inc. | Q3 2018 Form 10-Q | 2
+
+Nine Months Ended
+
+June 30, 2018
+
+July 1, 2017
+
+$45,406 $37,637
+
+(287)
+
+(41)
+
+170
+
+1,002
+
+873 1,043
+
+(1,135) (133)
+
+(3,417) (22) (3,439) (2,683)
+
+(980) (25) (1,005) (1,179)
+
+$42,723 $36,458
+
+Apple Inc. CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
+
+(In millions, except number of shares which are reflected in thousands and par value)
+
+June 30,
+
+Current assets: Cash and cash equivalents Short-term marketable securities Accounts receivable, net Inventories Vendor non-trade receivables Other current assets Total current assets
+
+ASSETS:
+
+$
+
+Long-term marketable securities Property, plant and equipment, net Other non-current assets
+
+Total assets
+
+$
+
+Current liabilities: Accounts payable Accrued expenses Deferred revenue Commercial paper Current portion of long-term debt Total current liabilities
+
+Deferred revenue, non-current Long-term debt Other non-current liabilities Total liabilities
+
+LIABILITIES AND SHAREHOLDERS' EQUITY:
+
+$
+
+Commitments and contingencies
+
+Shareholders' equity: Common stock and additional paid-in capital, $0.00001 par value: 12,600,000 shares authorized; 4,842,917 and 5,126,201 shares issued and outstanding, respectively Retained earnings Accumulated other comprehensive income/(loss) Total shareholders' equity
+
+Total liabilities and shareholders' equity
+
+$
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+Apple Inc. | Q3 2018 Form 10-Q | 3
+
+2018
+
+31,971 $ 38,999 14,104 5,936 12,263 12,488 115,761
+
+172,773 38,117 22,546 349,197 $
+
+38,489 $ 25,184 7,403 11,974 5,498 88,548
+
+2,878 97,128 45,694 234,248
+
+38,624 79,436 (3,111) 114,949 349,197 $
+
+September 30, 2017
+
+20,289 53,892 17,874 4,855 17,799 13,936 128,645
+
+194,714 33,783 18,177 375,319
+
+49,049 25,744 7,548 11,977 6,496 100,814
+
+2,836 97,207 40,415 241,272
+
+35,867 98,330 (150) 134,047 375,319

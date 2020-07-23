@@ -1,0 +1,59 @@
+East Repair Inc.
+
+1912 Harvest Lane
+
+1
+
+New York NY 12210
+
+0 ,
+
+0 - S Bill To Ship To Invoice Date 11/02/2019
+
+U John Smith John Smith P.0.# 2312/2019
+
+e 2 Court Square
+
+3787 Pineview Drive
+
+Due Date 26/02/2019
+
+c New York NY 12210 Cambrid MA 12210
+
+,
+
+ge,
+
+i o
+
+v Qty
+
+n
+
+Description
+
+Unit Price Amount
+
+Front and rear brake cables 100.00 100.00
+
+New set of pedal arms
+
+Labor 3brs
+
+15.00
+
+30.00
+
+5.00
+
+15.00
+
+Subtotal          145.00 
+Sales Tax 6.25%   9.06   
+Total             $154.06
+
+Terms & Conditions
+
+Payment is due within 15 days
+
+Please make checks payable to: East Repair Inc.

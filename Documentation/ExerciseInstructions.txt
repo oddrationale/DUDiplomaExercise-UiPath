@@ -23,7 +23,7 @@
 					home-address
 					city-town-zip
 					apt-no
-					dependants (tabel)
+					dependents (table)
 						first-last-name
 						social-security-number
 						relationship

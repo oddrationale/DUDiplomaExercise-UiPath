@@ -1,0 +1,44 @@
+IN
+
+Bill To CHOAM
+
+27 Shield Wall Ave, Carthag, CH 1965 Arrakis
+
+VOICE
+
+Sirius Cybernetics Corp.
+
+4592 Bell Street New York, NY 10018
+
+Ship To CHOAM
+
+27 Shield Wall Ave, Carthag, CH 1965 Arrakis
+
+Invoice # Invoice Date P.0.#
+
+Due Date
+
+890127 27/01/2016
+
+16012633
+
+26/02/2016
+
+i
+
+Qty   Description                           Unit Price   Amount    
+10    Vutrimatic Drinks Dispenser           4,200.00     42,000.00 
+17    Shpboard Computer "Eddie"             8,402.00     142,834.00
+3     -lappy Vertical People Transporters   21,000.00    63,000.00 
+
+Subtotal
+
+247,834.00
+
+VAT 19.0% Total
+
+47,088.46 $294,922.46
+
+Terms & Conditions Payment is due within 30 days
+
+Thank you
